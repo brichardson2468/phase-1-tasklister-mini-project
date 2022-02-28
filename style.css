@@ -7,7 +7,7 @@ html {
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(125, 213, 224), rgb(42, 30, 214));
 }
 
 button {
